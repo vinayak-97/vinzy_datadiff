@@ -193,7 +193,3 @@ print(result_tolerant.summary['identical'])  # True
 ## License
 
 MIT License - see LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.

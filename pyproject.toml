@@ -55,7 +55,7 @@ dev = [
 ]
 
 [project.urls]
-Repository = ""
+Repository = "https://github.com/vinayak-97/vinzy_datadiff"
 
 [tool.setuptools.packages.find]
 where = ["."]
